@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udyotha
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning Java, C#, Python
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript, HTML, CSS.
+- 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
 
 <!---
