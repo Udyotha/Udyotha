@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Udyotha
 - 👀 I’m interested in Web Development
+- 🌐 My personal website : https://udyotha.github.io/my-portfolio/
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
