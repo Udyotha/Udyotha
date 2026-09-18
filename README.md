@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Udyotha
 - 👀 I’m interested in Full Stack Development
-- 🌐 My personal website : https://udyotha.github.io/my-portfolio/
+- 🌐 My personal website : https://portfolio.udyotha.com
+- 🌐 My AI Expense Tracker : https://ai-expense-tracker.udyotha.com
 - 🌱 I have expert knowledge on JavaScript, HTML, CSS and libraries such as ReactJS and environments such as NodeJs.
 - 💞️ I’m looking to collaborate on web applications
 
