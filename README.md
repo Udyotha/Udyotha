@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udyotha
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌐 My personal website : https://udyotha.github.io/my-portfolio/
-- 🌱 I’m currently learning JavaScript, HTML, CSS.
+- 🌱 I have expert knowledge on JavaScript, HTML, CSS and libraries such as ReactJS and environments such as NodeJs.
 - 💞️ I’m looking to collaborate on web applications
 
 <!---
